@@ -7,7 +7,7 @@
 ## 开始使用
 要开始 vibe 编程，你只需要两个工具：  
 - **Grok 3 Thinking**  https://grok.com 
-- **Cursor with Claude Sonnet 3.7 Thinking**  
+- **Cursor with Claude Sonnet 3.7 Thinking**  https://www.cursor.com
 
 正确设置一切是关键。如果你认真想要创建一个功能完整且视觉吸引人的游戏，请花时间建立坚实的基础。  
 
