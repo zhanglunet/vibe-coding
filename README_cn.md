@@ -1,7 +1,8 @@
 # 氛围编程（Vibe Coding）终极指南 V1.0
 **作者:** [Nicolas Zullo, https://x.com/NicolasZu](https://x.com/NicolasZu)  
 **修订:** ZhangLu
-**日期:** 2025年3月12日  
+
+**日期:** 2025年3月17日  
 
 ---
 
